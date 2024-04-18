@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+#restaurants {
+  margin-bottom: 10px;
+}
+
+#add-restaurant, #randomize {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#restaurants ul {
+  list-style: none;
+  padding: 0;
+}
+
+#restaurants li {
+  margin-bottom: 5px;
+}
